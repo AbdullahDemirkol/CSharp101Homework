@@ -12,3 +12,17 @@ C:\Users\Abdullah\source\repos\CSharp101\PhoneDirectory\obj\Debug\net7.0\refint\
 C:\Users\Abdullah\source\repos\CSharp101\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.pdb
 C:\Users\Abdullah\source\repos\CSharp101\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.genruntimeconfig.cache
 C:\Users\Abdullah\source\repos\CSharp101\PhoneDirectory\obj\Debug\net7.0\ref\PhoneDirectory.dll
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.exe
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.deps.json
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.runtimeconfig.json
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.dll
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\bin\Debug\net7.0\PhoneDirectory.pdb
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.dll
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\refint\PhoneDirectory.dll
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.pdb
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\PhoneDirectory.genruntimeconfig.cache
+C:\Users\Abdullah\source\repos\CSharp101Homework\PhoneDirectory\obj\Debug\net7.0\ref\PhoneDirectory.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\PhoneDirectory\\PhoneDirectory.csproj": {}
+    "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\ToDoConsoleApplication\\ToDoConsoleApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\PhoneDirectory\\PhoneDirectory.csproj": {
+    "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\ToDoConsoleApplication\\ToDoConsoleApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\PhoneDirectory\\PhoneDirectory.csproj",
-        "projectName": "PhoneDirectory",
-        "projectPath": "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\PhoneDirectory\\PhoneDirectory.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\ToDoConsoleApplication\\ToDoConsoleApplication.csproj",
+        "projectName": "ToDoConsoleApplication",
+        "projectPath": "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\ToDoConsoleApplication\\ToDoConsoleApplication.csproj",
         "packagesPath": "C:\\Users\\Abdullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\PhoneDirectory\\obj\\",
+        "outputPath": "C:\\Users\\Abdullah\\source\\repos\\CSharp101Homework\\ToDoConsoleApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\bin\Debug\net7.0\ToDoConsoleApplication.exe
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\bin\Debug\net7.0\ToDoConsoleApplication.deps.json
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\bin\Debug\net7.0\ToDoConsoleApplication.runtimeconfig.json
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\bin\Debug\net7.0\ToDoConsoleApplication.dll
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\bin\Debug\net7.0\ToDoConsoleApplication.pdb
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\ToDoConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\ToDoConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\ToDoConsoleApplication.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\ToDoConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\ToDoConsoleApplication.dll
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\refint\ToDoConsoleApplication.dll
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\ToDoConsoleApplication.pdb
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\ToDoConsoleApplication.genruntimeconfig.cache
+C:\Users\Abdullah\source\repos\CSharp101Homework\ToDoConsoleApplication\obj\Debug\net7.0\ref\ToDoConsoleApplication.dll
